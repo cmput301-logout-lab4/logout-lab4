@@ -1,1 +1,3 @@
-NAME: Alexander Bradley    CCID: abradle1
+|Name|CCID|
+|---|---|
+|Regan Ng|rvng|
